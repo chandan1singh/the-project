@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbar{
+    height: 30px;
+    background-color: rgb(228, 30, 185);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#contents{
+    
+    width: 530px;
+    display:flex;
+    background-color: rgb(228, 30, 185);
+    justify-content: space-around;
+
+}
+#contents>div{
+    align-items: center;
+    justify-content: center;
+}
+select{
+    background-color: rgb(228, 30, 185);
+}
